@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+  }
+  
+  #controls {
+    margin: 20px;
+  }
+  
+  #boardCanvas {
+    border: 2px solid black;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  button:disabled {
+    background-color: grey;
+  }
+  
+  #historyList {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
